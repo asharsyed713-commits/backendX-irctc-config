@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/quizdb
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
