@@ -7,3 +7,6 @@ eureka:
   client:
     register-with-eureka: true
     fetch-registry: true
+
+config:
+   value: This is from github
