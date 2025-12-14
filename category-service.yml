@@ -22,3 +22,9 @@ eureka:
 
 config:
    value: You are in category, from github
+
+management:
+    endpoints:
+      web:
+        exposure:
+           include: health
