@@ -21,7 +21,7 @@ eureka:
 
 
 config:
-   value: You are in category, from github
+   value: chnging category rabbit
 
 management:
     endpoints:
